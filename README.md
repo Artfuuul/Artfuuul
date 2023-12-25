@@ -10,7 +10,7 @@
 - 📫 Для сотрудничества пишите в Telegram: @daniltimbal 
 
 <h3 align="left">Стек технологий:</h3>
-Python, pandas, numpy, matplotlib, seaborn, scipy, sklearn, SQL, SQLAlchemy, PostgreSQL, FastAPI, Git, Airflow, CatBoost, LightGBM, XGBoost, PyTorch.alt="seaborn" width="40" height="40"/> </a> </p>
+Python <img src="https://upload.wikimedia.org/wikipedia/commons/e/ed/Pandas_logo.svg"> numpy, matplotlib, seaborn, scipy, sklearn, SQL, SQLAlchemy, PostgreSQL, FastAPI, Git, Airflow, CatBoost, LightGBM, XGBoost, PyTorch
 
 <h3 align="left">Обучение:</h3>
 <img src="Сертификат_Фото.png" alt="Обучение">
