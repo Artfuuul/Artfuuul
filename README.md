@@ -19,8 +19,3 @@
   <img src="https://upload.wikimedia.org/wikipedia/commons/2/29/Postgresql_elephant.svg" title="PostgreSQL" height="50"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/1/10/PyTorch_logo_icon.svg" title="PyTorch" height="50"/>
 </p>
-
-
-<h3 align="left">Обучение:</h3>
-<img src="Сертификат_Фото.png" alt="Обучение">
-Ссылка на сертификат: https://lab.karpov.courses/certificate/2aef00aa-aef1-49c5-9140-fcae80ed58b3/
